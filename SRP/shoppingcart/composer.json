@@ -1,0 +1,21 @@
+{
+    "name": "rodri/shoppingcart",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Rodri\\Shoppingcart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rodrigo antunes",
+            "email": "rodrigoka@live.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}
