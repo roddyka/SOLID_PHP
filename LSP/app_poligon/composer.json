@@ -1,0 +1,20 @@
+{
+    "name": "rodri/app_poligon",
+    "autoload": {
+        "psr-4": {
+            "Rodri\\AppPoligon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rodrigo antunes",
+            "email": "rodrigoka@live.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
