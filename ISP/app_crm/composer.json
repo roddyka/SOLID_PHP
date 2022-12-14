@@ -1,0 +1,20 @@
+{
+    "name": "rodri/app_crm",
+    "autoload": {
+        "psr-4": {
+            "Rodri\\AppCrm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rodrigo antunes",
+            "email": "rodrigoka@live.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "src\\" : "scr/"
+        }
+    }
+}
